@@ -2,6 +2,5 @@
 
 <div>
 <a href="https://github.com/fernando-azevedo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-azevedo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-azevedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
